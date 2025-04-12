@@ -15,21 +15,17 @@ The internal RGB led of QT Py board is used to provide visual feedback for each 
 The <a href="https://github.com/milador/Enabled-Controller-Mini/blob/main/Documentation/Build_Manuals/Enabled_Controller_Mini_Instructions_Manual.pdf">Assembly Instructions Manual</a> is available to download.
 
 ## Parts
-
 The <a href="https://github.com/milador/Enabled-Controller-Mini/blob/main/Components/Enabled_Controller_Mini_BOM.csv">BOM</a> file is available to download.
 
 ## Software
-
 The first experimental software is under testing.
 
 ## Hardware 
 
 ### PCB Design 
-
 The <a href="https://github.com/milador/Enabled-Controller-Mini/tree/main/Hardware/PCB">PCB files</a> including both PCB Eagle design files and generated gerber files are available to download.
 
 ### Enclosure
-
 The <a href="https://github.com/milador/Enabled-Controller-Mini/tree/main/Hardware/Enclosure">Enclosure files</a> including both STL and STEP enclosure files are available to download.
 
 ## License
@@ -46,3 +42,6 @@ A creative commons license that bans commercial use and requires you to release 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
 
+<!-- ABOUT MMC START -->
+
+<!-- ABOUT MMC END -->
